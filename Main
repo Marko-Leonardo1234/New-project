@@ -1,0 +1,6 @@
+noun = input("Іменник: ")
+color = input("Колір: ")
+verb = input("Дієслово: ")
+animal = input("Назва тварини: ")
+place = input("Назва місця: ")
+print(f"One day, {noun} was very sad because he was {color}. He decided to {verb} go to {place}, where he met {animal}. Together they decided to stay in {place} forever, and became best friends.")
